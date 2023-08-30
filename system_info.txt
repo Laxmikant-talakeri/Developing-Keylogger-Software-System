@@ -1,0 +1,12 @@
+Public IP Address: 152.58.231.173
+Processor: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: Laxmikant
+Private IP Address: 172.17.176.1
+Public IP Address: 152.58.231.173
+Processor: Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: Laxmikant
+Private IP Address: 172.17.176.1
